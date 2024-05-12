@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "nuxt",
+        "nuxtjs",
+        "sepolia",
+        "tanstack",
+        "Wagmi"
+    ],
+    "css.customData": [".vscode/tailwind.json"]
+}
